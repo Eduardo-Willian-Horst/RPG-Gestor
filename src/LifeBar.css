@@ -1,0 +1,24 @@
+p{
+    color: white;
+}
+
+#lifepoints{
+    align-items: center;
+    display: flex;
+}
+
+#btnLife{
+    border: none;
+}
+
+#lifeBarContainer {
+    width: 200px; /* Largura da barra */
+    height: 20px; /* Altura da barra */
+
+  }
+  
+#lifeBar {
+  height: 100%;
+  background-color: #00ff08; /* Cor da barra de progresso */
+}
+  

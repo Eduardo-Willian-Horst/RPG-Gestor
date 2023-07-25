@@ -1,0 +1,15 @@
+
+#lblCondicoes{
+    margin: 0;
+    padding: 0;
+}
+
+#inCondicoes{
+    margin-left: 21px;
+    width: 20px;
+}
+
+#divCondicoes{
+    align-items: center;
+    display: flex;
+}

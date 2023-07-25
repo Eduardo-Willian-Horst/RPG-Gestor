@@ -1,0 +1,9 @@
+#divSobre{
+    align-items: center;
+    display: flex;
+    height: 0px;
+}
+
+a{
+    margin-left: 20px;
+}

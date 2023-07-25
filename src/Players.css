@@ -1,0 +1,42 @@
+*{
+    color: white;
+}
+
+input[type="text"]{
+    background-color: transparent;
+    border: none;
+    font: normal 35px Arial;
+    width: auto;
+    margin-top: 10px;
+    color: white;
+  }
+
+#inCA{
+    background-color: transparent;
+    width: 20px;
+    color: white;
+    margin-top: 5px;
+    margin-left: 4px;
+    border: none;
+
+}
+
+input::placeholder{
+    color: rgb(177, 177, 177);
+}
+
+#divStatus{
+    height: 40px;
+    align-items: center;
+    display: flex;
+}
+
+#separador{
+    padding-left: 20px;
+    padding-right: 5px;
+}
+
+button{
+    background-color: transparent;
+}
+

@@ -1,0 +1,12 @@
+img{
+    width: 100px;
+}
+
+
+.divHeader{
+    font: normal 20px Arial;
+    align-items: center;
+    display: flex;
+    margin-bottom: 30px;
+}
+
